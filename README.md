@@ -1,7 +1,7 @@
 ### Hi there, I am Swapnil aka Neal 👋
 
 - Visit my website to learn more - [Swapnilklkar.github.io][web]
-![web](swapnilklkar.github.io)
+[![web](swapnilklkar.github.io)]
 
 
 ## I am a Data Scientist and a Project Management Professional (PMP)
