@@ -1,6 +1,6 @@
 ### Hi there, I am Swapnil aka Neal 👋
 
-- Visit my website to learn more - Swapnilklkar.github.io
+- Visit my website to learn more - [Swapnilklkar.github.io](swapnilklkar.github.io)
 
 
 ## I am a Data Scientist and a Project Management Professional (PMP)
@@ -15,8 +15,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnilklkarpmp)](https://www.linkedin.com/in/swapnilklkarpmp)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swapnilforcat@gmail.com)](mailto:swapnilforcat@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@swapnilklar)](https://medium.com/@swapnilklkar)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/swapnilforcat)](https://www.kaggle.com/swapnilforcatpmp) 
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@swapnilklar)](https://medium.com/@swapnilklkar)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/swapnilforcat)](https://www.kaggle.com/swapnilforcat) 
 
 <br />
 
