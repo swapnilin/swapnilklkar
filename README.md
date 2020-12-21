@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" src="https://github.com/swapnilklkar/Infographics/blob/main/Gmail.png" target="_blank" />](mailto:swapnilforcat@gmail.com)
-[<img align="left" alt="LinkedIn" src="https://github.com/swapnilklkar/Infographics/blob/main/LinkedIn.png" target="_blank" />](https://www.linkedin.com/in/swapnilklkarpmp)
-[<img align="left" alt="Medium" target="_blank" src="https://github.com/swapnilklkar/Infographics/blob/main/Medium.png" />](https://medium.com/@swapnilklkar)
-[<img align="left" alt="Kaggle" src="https://github.com/swapnilklkar/Infographics/blob/main/Kaggle.png" target="_blank" />](https://kaggle.com/@swapnilforcat)
+[<img align="left" alt="Gmail" src="https://github.com/swapnilklkar/Infographics/blob/main/Gmail.png" target="_blank" />](mailto:swapnilforcat@gmail.com) {:target="_blank"}
+[<img align="left" alt="LinkedIn" src="https://github.com/swapnilklkar/Infographics/blob/main/LinkedIn.png" target="_blank" />](https://www.linkedin.com/in/swapnilklkarpmp) {:target="_blank"}
+[<img align="left" alt="Medium" src="https://github.com/swapnilklkar/Infographics/blob/main/Medium.png" />](https://medium.com/@swapnilklkar) {:target="_blank"}
+[<img align="left" alt="Kaggle" src="https://github.com/swapnilklkar/Infographics/blob/main/Kaggle.png" target="_blank" />](https://kaggle.com/@swapnilforcat) {:target="_blank"}
 
 
 
