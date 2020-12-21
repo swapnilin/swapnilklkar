@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [![Linkedin](https://github.com/swapnilklkar/Infographics/blob/main/LinkedIn.png)](https://www.linkedin.com/in/swapnilklkarpmp)
-[![Gmail](https://github.com/swapnilklkar/Infographics/blob/main/gmail.png)](mailto:swapnilforcat@gmail.com)
+[![Gmail](https://github.com/swapnilklkar/Infographics/blob/main/Gmail.png)](mailto:swapnilforcat@gmail.com)
 [![Medium](https://github.com/swapnilklkar/Infographics/blob/main/Medium.png)](https://medium.com/@swapnilklkar)
 [![Kaggle](https://github.com/swapnilklkar/Infographics/blob/main/Kaggle.png)](https://www.kaggle.com/swapnilforcat) 
 
