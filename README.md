@@ -13,11 +13,11 @@
 
 ### Connect with me:
 
-[![Gmail](https://github.com/swapnilklkar/Infographics/blob/main/Gmail.png)](mailto:swapnilforcat@gmail.com)
-[![LinkedIn](https://github.com/swapnilklkar/Infographics/blob/main/LinkedIn.png)](https://www.linkedin.com/in/swapnilklkarpmp)
-[![Medium](https://github.com/swapnilklkar/Infographics/blob/main/Medium.png)](https://medium.com/@swapnilklkar)
 [<img align="left" alt="Gmail" src="https://github.com/swapnilklkar/Infographics/blob/main/Gmail.png" />](mailto:swapnilforcat@gmail.com)
-[![Kaggle](https://github.com/swapnilklkar/Infographics/blob/main/Kaggle.png)](https://www.kaggle.com/swapnilforcat)
+[<img align="left" alt="LinkedIn" src="https://github.com/swapnilklkar/Infographics/blob/main/LinkedIn.png" />](https://www.linkedin.com/in/swapnilklkarpmp)
+[<img align="left" alt="Medium" src="https://github.com/swapnilklkar/Infographics/blob/main/Medium.png" />](https://medium.com/@swapnilklkar)
+[<img align="left" alt="Kaggle" src="https://github.com/swapnilklkar/Infographics/blob/main/Kaggle.png" />](https://kaggle.com/@swapnilforcat)
+
 
 
 <br />
